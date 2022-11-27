@@ -1,0 +1,3 @@
+#myLabel{
+	-fx-background-color: black;
+}

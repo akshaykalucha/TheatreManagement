@@ -1,0 +1,5 @@
+#myLabel{
+	-fx-font-size: "120px";
+    -fx-font-weight: "bold";
+    -fx-text-fill: "#333333";
+}

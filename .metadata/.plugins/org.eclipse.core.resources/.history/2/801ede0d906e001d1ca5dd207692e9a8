@@ -1,0 +1,3 @@
+module TheatreManagement {
+	requires javafx.graphics;
+}
